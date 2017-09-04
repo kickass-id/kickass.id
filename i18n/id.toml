@@ -1,0 +1,56 @@
+[by]
+  other = "oleh"
+
+[category]
+  one = "Kategori"
+  other = "Kategori"
+
+[currentPage]
+  other = "Halaman ini"
+
+[mainMenu]
+  other = "Menu Utama"
+
+[next]
+  other = "Selanjutnya"
+
+[nextPage]
+  other = "Halaman selanjutnya"
+
+[nextPost]
+  other = "Artikel berikutnya"
+
+[noTerm]
+  other = "{{ .Term }} tidak ditemukan!"
+
+[openSomethingInNewTab]
+  other = "Buka {{ .Something }} di tab baru"
+
+[page]
+  other = "Halaman"
+
+[previous]
+  other = "Sebelumnya"
+
+[previousPage]
+  other = "Halaman sebelumnya"
+
+[previousPost]
+  other = "Artikel sebelumnya"
+
+[postedOn]
+  other = "Dipublikasikan tanggal"
+
+[recentPosts]
+  other = "Artikel Terbaru"
+
+[socialMenu]
+  other = "Menu Sosial"
+
+[readingTime]
+  one = "Bacaan satu menit"
+  other = "Bacaan {{ .Count }} menit"
+
+[tag]
+  one = "Tag"
+  other = "Tag"
