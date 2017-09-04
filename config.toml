@@ -1,0 +1,70 @@
+baseURL = "https://kickass.id"
+title = "Kickass.ID"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = "UA-89304364-8"
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "Ulasan film terbaru yang tersedia di Internet."
+  dateFormat = "28 Jan 2006"
+  copyrightOwner = "Kickass.ID"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = true
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Admin"
+
+[author.social]
+  codepen = ""
+  email = ""
+  facebook = ""
+  github = ""
+  instagram = ""
+  twitter = ""
+  linkedin = ""
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "HOME"
+  weight = -70
+  identifier = "home"
+  url = "/"
+
+# Language Configuration
+defaultContentLanguage = "id"
+
+[languages]
+  # edit this block for your own language
+  [languages.id]
+    lang = "id"
+    languageName = "Indonesian"
+    weight = 1
