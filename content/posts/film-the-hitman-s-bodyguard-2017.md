@@ -11,4 +11,10 @@ date: 2017-09-04T17:39:34+08:00
 **Sutradara:** Patrick Hughes  
 **Genre:** Action, Comedy  
 **Tahun:** 2017  
-**Rating IMDB:** 7.0 (dicek 4 Sep 2017)
+**Rating IMDB:** 7.0 (dicek 4 Sep 2017)  
+**Durasi:** 1 jam 58 menit
+
+Kualitas | Ukuran
+-------- | ------
+1080     | 6.37 GB (NOGRP)
+720      | 3.46 GB (FGT)
