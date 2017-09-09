@@ -1,10 +1,9 @@
 +++
 date = "2017-09-09T15:57:24+00:00"
-draft = true
 title = "Despicable Me 3 (2017)"
 
 +++
-<img src="/img/poster/despicable-me-3-2017.jpg" alt="Poster" style="width: 300px;"/>
+<img src="/img/poster/film-despicable-me-3-2017.jpg" alt="Poster" style="width: 300px;"/>
 
 **Sinopsis:** Gru bertemu dengan saudara kembarnya, Dru, yang lebih sukses dalam segala hal. Dru mengajak Gru bekerja sama dalam aksi kejahatan yang sudah direncanakannya.
 
