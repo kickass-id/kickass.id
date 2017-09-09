@@ -1,0 +1,20 @@
+---
+pages:
+- posts/film-despicable-me-3-2017.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: "{{ .Date }}"
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
