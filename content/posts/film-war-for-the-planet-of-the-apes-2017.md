@@ -18,5 +18,5 @@ Setelah kelompok kera menderita kekalahan di film sebelumnya, Caesar memimpin pa
 
 Kualitas | Ukuran
 -------- | ------
-1080     | 4.85 (FGT)
-720      | 4.07 (FGT)
+1080     | 4.85 GB (FGT)
+720      | 4.07 GB (FGT)
